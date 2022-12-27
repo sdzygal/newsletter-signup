@@ -4,8 +4,9 @@ A functional form for people who wants to subscribe to your newsletter. This is 
 ## Run the app
 
 > npm install
+
 > node app.js
 
 ## Screenshots
 
-![screenshot](public/img/mockup1.png)
+![screenshot](mockup1.png)
